@@ -10,52 +10,53 @@ export default class FoodBox extends Component {
         {
           name: 'orange',
           calories: 65,
-          img: 'https://www.kindpng.com/picc/m/155-1555808_oranges-png-image-orange-fruit-transparent-png.png',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPZ-zpuA2v6ZfzrH9ePrewEJpXEHrLa6SMw&usqp=CAU',
         },
         {
           name: 'chocolate milk',
           calories: 208,
-          img: 'https://www.sugarsaltmagic.com/wp-content/uploads/2020/10/Homemade-Chcolate-Milk-6FEATURED.jpg',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWNPhehw1kTo2xEyFyTC-XSEzN5_x6OIb3Xw&usqp=CAU',
         },
         {
           name: 'apple',
           calories: 81,
-          img: 'https://usapple.org/wp-content/uploads/2019/10/apple-pink-lady.png',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEF-lAKF-ih6i-_1QHErs7PI-Nu_dD1ms_Eg&usqp=CAU',
         },
         {
           name: 'watermelon',
           calories: 85,
-          img: 'https://solidstarts.com/wp-content/uploads/when-can-babies-eat-watermelon.jpg',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH399MMw0IODPY-75ujUDKRhLYosUZX1hCbg&usqp=CAU',
         },
         {
           name: 'banana',
           calories: 105,
-          img: 'https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxULMmT2YkBiLRl9j5ip2twxGukAB7WM-qw&usqp=CAU',
         },
         {
           name: 'biscuit',
           calories: 103,
-          img: 'https://www.biggerbolderbaking.com/wp-content/uploads/2017/02/Digestive-Biscuits-copy-1.jpg',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNC7LjSuBeFdnw9w454ZNbDrDw-rerEWiVQ&usqp=CAU',
         },
         {
           name: 'pizza',
           calories: 290,
-          img: 'https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMX18F86ZMZLAU576GVWGg_isIJ59i5OZ2Pw&usqp=CAU',
         },
         {
           name: 'grapes',
           calories: 114,
-          img: 'https://lh3.googleusercontent.com/OPYcKKKfd-8ygRSbb10ZvOQWbRTJqIuuwwkEyFIeyMQVpLzsOY9Zjdvc1WQWh3-zzLPaQfDGD8d64RJyzbhOTkS2g1xgRy7wC1yKs5ox7aE84LE6gpw_-SSxyWtf8E9fJmF_Zlw',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR2_zA5Au11drohgBtKiTm8tj6sR6WBWHm7A&usqp=CAU',
         },
         {
           name: 'raspberries',
           calories: 61,
-          img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Raspberries_%28Rubus_idaeus%29.jpg/1200px-Raspberries_%28Rubus_idaeus%29.jpg',
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX_ZEYmjZfs2BZnoDWSZtiyQW9LSfKxGAtQ&usqp=CAU',
         },
         {
           name: 'strawberries',
           calories: 45,
-          img: 'https://images.immediate.co.uk/production/volatile/sites/30/2013/06/Strawberries-in-a-bowl-e53b458-scaled.jpg?quality=90&resize=768%2C574',
+          img: 'https://media.gettyimages.com/photos/strawberry-picture-id154514873?s=612x612',
+          
         },
       ],
       searchTxt: '', // Data to be searched
